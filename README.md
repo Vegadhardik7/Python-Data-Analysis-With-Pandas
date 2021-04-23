@@ -5,15 +5,15 @@ This is a complete python data analysis repository using only PANDAS &amp; NUMPY
 This Series contains:
 
 <b>
-- Python
-- Numpy
-- Pandas
-- Series
-- DataFrame
-- Text Data
-- Multi Indexing
-- GroupBy
-- Merge, Join, & Concatenate
-- Time Series Data
-- Handling Excel
+- Python</br>
+- Numpy</br>
+- Pandas</br>
+- Series</br>
+- DataFrame</br>
+- Text Data</br>
+- Multi Indexing</br>
+- GroupBy</br>
+- Merge, Join, & Concatenate</br>
+- Time Series Data</br>
+- Handling Excel</br>
 </b>
